@@ -1,4 +1,4 @@
-[← Contents](README.md)
+[← Contents](../README.md)
 
 ## 3.2 Operating conditions
 
