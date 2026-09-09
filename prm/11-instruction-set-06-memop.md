@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 ## 11.6 MEMOP
 
 The MEMOP instruction class includes simple operations on values in memory.

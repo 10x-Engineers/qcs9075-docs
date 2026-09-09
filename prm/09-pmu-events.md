@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 9 PMU Events
 
 The Hexagon processor can collect execution statistics on the applications it executes. The statistics summarize the types of Hexagon processor events that occur while the application runs.

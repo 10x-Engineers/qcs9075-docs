@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 ## 11.5 LD
 
 The LD instruction class includes load instructions, which are used to load values into registers.

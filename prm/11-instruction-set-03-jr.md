@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 ## 11.3 JR
 
 The JR instruction class includes instructions to change the program flow to a new location contained in a register.

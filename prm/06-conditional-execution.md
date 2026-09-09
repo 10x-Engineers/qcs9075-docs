@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 6 Conditional Execution
 
 The Hexagon processor uses a conditional execution model based on compare instructions that set predicate bits in one of four 8-bit predicate registers (P0 through P3). These predicate bits can conditionally execute certain instructions.

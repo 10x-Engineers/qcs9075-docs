@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 11 Instruction Set
 
 This chapter lists the following information for the Hexagon Processor version 7 instruction set:

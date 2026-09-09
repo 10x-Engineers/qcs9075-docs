@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 ## 11.2 CR
 
 The CR instruction class includes instructions which manage control registers, including hardware looping, modulo addressing, and status flags.

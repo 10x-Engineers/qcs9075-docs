@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # Instruction Index
 
 ### A

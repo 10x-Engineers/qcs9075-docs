@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 ## 11.7 NV
 
 The NV instruction class includes instructions that take the register source operand from another instruction in the same packet.

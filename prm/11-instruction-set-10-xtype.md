@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 ## 11.10 XTYPE
 
 The XTYPE instruction class includes instructions that perform most of the data processing done by the Hexagon processor.

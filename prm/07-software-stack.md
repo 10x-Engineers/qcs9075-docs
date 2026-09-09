@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 7 Software Stack
 
 The Hexagon processor includes dedicated registers and instructions to support a call stack for subroutine execution.

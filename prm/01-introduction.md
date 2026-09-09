@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 1 Introduction
 
 The Qualcomm Hexagon™ processor is a general-purpose digital signal processor designed for high performance and low power across a wide variety of multimedia and modem applications. V73 is a member of the sixth generation of the Hexagon processor architecture.

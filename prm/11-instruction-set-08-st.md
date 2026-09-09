@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 ## 11.8 ST
 
 The ST instruction class includes store instructions, used to store values in memory.

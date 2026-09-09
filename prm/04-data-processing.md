@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 4 Data Processing
 
 The Hexagon processor provides a rich set of operations for processing scalar and vector data. Instructions can perform a wide variety of operations on fixed-point or floating-point data. The fixed-point operations support scalar and vector data in various sizes. The floating-point operations support single-precision data.

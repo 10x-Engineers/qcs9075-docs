@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 2 Registers
 
 General registers are used for general-purpose computation, including address generation, and scalar and vector arithmetic.

@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 8 Program Flow
 
 The Hexagon processor supports the following program flow facilities.

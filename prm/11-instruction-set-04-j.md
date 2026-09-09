@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 ## 11.4 J
 
 The J instruction class includes branch instructions (jumps and calls) that obtain the target address from a (PC-relative) immediate address value.

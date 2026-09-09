@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 ## 11.9 SYSTEM
 
 The SYSTEM instruction class includes instructions for managing system resources.

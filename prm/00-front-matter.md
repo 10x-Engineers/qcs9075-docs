@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # Front matter
 
 Qualcomm<sup></sup> Hexagon V73

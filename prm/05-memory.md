@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 5 Memory
 
 The Hexagon processor features a load/store architecture, where numeric and logical instructions operate on registers. Explicit load instructions move operands from memory to registers while store instructions move operands from registers to memory. A few instructions (known as mem-ops) perform numeric and logical operations directly on memory.

@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 3 Instructions
 
 Instruction encoding is described in Chapter 10. For detailed descriptions of the Hexagon processor instructions, see Chapter 11.

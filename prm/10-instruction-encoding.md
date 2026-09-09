@@ -1,5 +1,3 @@
-[← Contents](README.md)
-
 # 10 Instruction Encoding
 
 ## 10.1 Instructions
